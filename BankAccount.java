@@ -1,20 +1,5 @@
-
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Bank Account
-// Course:   CS 300 Fall 2020
-//
-// Author:   Tom Rosen
-// Email:    trrosen@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons:         
-// Online Sources:  
-//					
-//
-///////////////////////////////////////////////////////////////////////////////
+// Name: Tom Rosen
+// Email: trrosen @wisc.edu 
 
 import java.util.ArrayList;
 
