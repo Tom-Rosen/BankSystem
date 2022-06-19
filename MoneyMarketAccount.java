@@ -1,20 +1,5 @@
-
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    Money Market Account
-// Course:   CS 300 Fall 2020
-//
-// Author:   Tom Rosen
-// Email:    trrosen@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons:         
-// Online Sources:  
-//					
-//
-///////////////////////////////////////////////////////////////////////////////
+// Name: Tom Rosen
+// Email: trrosen @wisc.edu 
 
 /**
  * Class extends Bank Account, and creates the basic model for a money market account.  Money market
